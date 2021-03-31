@@ -4,7 +4,7 @@
   "description": "Parse data from pdf",
   "main": "parser.ts",
   "dependencies": {
-    "pdf2json": "^1.2.0",
+    "pdf2json": "^1.2.1",
     "pdf2table": "^0.0.2",
     "test": "^0.6.0",
     "npm": "^6.14.8",
